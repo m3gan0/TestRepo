@@ -1,0 +1,63 @@
+College,Theme[DataRepo],Department
+CALS,Agriculture,Agronomy
+CALS,Agriculture,Animal Science
+CALS,Agriculture,Entomology
+CALS,Agriculture,Horticulture
+CALS,Agriculture,Plant Pathology and Microbiology
+Design,Arts & Design,Architecture
+Design,Arts & Design,Art and Visual Culture
+Design,Arts & Design,Community and Regional Planning
+Design,Arts & Design,Graphic Design
+Design,Arts & Design,Industrial Design
+Design,Arts & Design,Interior Design
+Design,Arts & Design,Landscape Architecture
+LAS,Arts & Design,Music and Theatre
+Design,Arts & Design,Art and Visual Culture
+BUS,Business,Accounting & Finance
+HumanSci,Business,"Apparel, Events and Hospitality Management"
+CALS/LAS,Business,Economics
+BUS,Business,Management & Marketing
+BUS,Business,Supply Chain & Information Systems
+CALS/Engin,Engineering,Agricultural and Biosystems Engineering
+Engineering,Engineering,Chemical and Biological Engineering
+Engineering,Engineering,"Civil, Construction and Environmental Engineering"
+Engineering,Engineering,Electrical and Computer Engineering
+Engineering,Engineering,Industrial and Manufacturing Systems Engineering
+Engineering,Engineering,Materials Science and Engineering
+Engineering,Engineering,Mechanical Engineering
+HumanSci/CALS,Health Sciences,Food Science and Human Nutrition
+HumanSci,Health Sciences,Human Development and Family Studies
+HumanSci,Health Sciences,Kinesiology
+,Health Sciences,Nursing
+LAS,Humanities,English
+LAS,Humanities,History
+LAS,Humanities,Journalism and Communication
+LAS,Humanities,Philosophy and Religious Studies
+LAS,Humanities,World Languages and Cultures
+CALS/LAS,Life Science,"Biochemistry, Biophysics and Molecular Biology"
+CALS/LAS,Life Science,"Ecology, Evolution and Organismal Biology"
+CALS/LAS,Life Science,"Genetics, Development and Cell Biology"
+CALS,Life Science,Natural Resource Ecology and Management
+LAS,Mathematical and Physical Sciences,Computer Science
+LAS,Mathematical and Physical Sciences,Mathematics
+CALS/LAS,Mathematical and Physical Sciences,Statistics
+LAS,Mathematical and Physical Sciences,Chemistry
+LAS,Mathematical and Physical Sciences,Geological and Atmospheric Sciences
+LAS,Mathematical and Physical Sciences,Physics and Astronomy
+LAS,Social Science,African and African American Studies
+CALS,Social Science,Agricultural Education
+LAS,Social Science,American Indian Studies
+LAS,Social Science,Anthropology
+LAS,Social Science,Asian American Studies
+LAS,Social Science,Communication Studies
+HumanSci,Social Science,Education
+LAS,Social Science,Political Science
+LAS,Social Science,Psychology
+CALS/LAS,Social Science,Sociology
+LAS,Social Science,U.S. Latino/a Studies
+LAS,Social Science,Women's and Gender Studies
+VetMed,VetMed,Veterinary Clinical Sciences
+VetMed,VetMed,Veterinary Diagnostic and Production Animal Medicine
+VetMed,VetMed,Veterinary Microbiology and Preventive Medicine
+VetMed,VetMed,Veterinary Pathology
+VetMed,VetMed,Biomedical Sciences
