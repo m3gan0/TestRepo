@@ -1,2 +1,2 @@
 # TestRepo
-test repository - nothing useful is in here
+A test Repository full of CSV and Excel documents. 
